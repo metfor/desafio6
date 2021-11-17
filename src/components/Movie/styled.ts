@@ -87,5 +87,5 @@ export const Trailer = styled.button`
   height: 52px;
   color: white;
   font-family: B612;
-  border: none;
+  border: 1px solid #ffffff;
 `;

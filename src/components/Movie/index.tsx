@@ -83,8 +83,8 @@ export function Movie() {
             </BoxImg>
           </InfoMovie>
           <BoxButton>
-            <WatchNow> Assistir Agora</WatchNow>
-            <Trailer> Trailer</Trailer>
+            <WatchNow> ASSISTIR AGORA</WatchNow>
+            <Trailer> TRAILER</Trailer>
           </BoxButton>
         </ContainerDesc>
       </BoxDescription>
